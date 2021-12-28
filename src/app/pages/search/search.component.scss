@@ -1,0 +1,14 @@
+.form {
+  padding: 2rem;
+  .form-field {
+    width: 100%;
+    maargin-bottom: 20px;
+  }
+  input {
+    border-radius: 5px;
+    font-size: 1rem;
+    width: 100%;
+    border: 2px solid #ccc;
+    padding: 10px;
+  }
+}
